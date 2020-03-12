@@ -1,7 +1,7 @@
 # dotfiles
 
 + install vcsh `pikaur -S vcsh`
-+ then `vcsh clone git@github.com:jplikesbikes/dotfiles.git` 
++ then `vcsh clone git@github.com:linneudm/dotfiles.git` 
 + delete any files that are in conflict `rm -rf .config/vcsh` 
 + and `vcsh dotfiles pull`
 
