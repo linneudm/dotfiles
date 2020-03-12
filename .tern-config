@@ -1,0 +1,9 @@
+{
+	"libs": [ "browser" ],
+	"loadEagerly": [],
+	"plugins": {
+		"node": {},
+		"complete_strings": {},
+		"es_modules": {}
+	}
+}

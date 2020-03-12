@@ -1,0 +1,16 @@
+[color]
+	diff = always
+	ui = true
+[user]
+	name = Linneu
+	email = linneu.dm@gmail.com
+[push]
+	default = simple
+[core]
+	editor = nano
+	pager = less -x2 -F -X
+[color]
+	status = auto
+	branch = auto
+	interactive = auto
+	diff = auto
